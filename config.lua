@@ -80,7 +80,7 @@ HRCharacter.nationalities ={ -- You can change Nationalities here
     ['American'] = true,
 }
 
-HRCharacter.Translation = {}
+HRCharacter.Translation = {} -- You can adjust the traduction with your words
 
 HRCharacter.Translation['FR'] = {
     WelcomeWord = 'Bonjour',
