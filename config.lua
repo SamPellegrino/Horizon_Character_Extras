@@ -57,7 +57,7 @@ if CLIENT then
     HRCharacter.SetupCamAngle = Angle(23,-131,0) -- Setup the camera angle on spawn (in the menues)
 end
 
-HRCharacter.playermodels = {
+HRCharacter.playermodels = { -- You can add your own playermodels in both male/female indexs ( follow the template ).
     ['male'] = {
         'models/player/zelpa/male_04.mdl', 
         'models/player/zelpa/male_05.mdl', 
